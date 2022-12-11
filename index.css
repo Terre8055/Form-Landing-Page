@@ -1,0 +1,9 @@
+div {
+    background-color: azure;
+    width: fit-content;
+}
+input {
+  border: solid;
+  border-color: brown;
+  border-style: outset;
+}
